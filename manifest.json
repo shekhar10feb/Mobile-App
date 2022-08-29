@@ -1,0 +1,46 @@
+{
+    "name": "Monty's Tea",
+    "short_name": "MontyTea",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "/photos/icon.png",
+          "type": "photo/png",
+          "sizes": "128x128"  
+        },
+        {
+            "src": "/photos/icon.png",
+            "type": "photo/png",
+            "sizes": "128x128"  
+          },
+          {
+            "src": "/photos/icon.png",
+            "type": "photo/png",
+            "sizes": "128x128"  
+          },
+          {
+            "src": "/photos/icon.png",
+            "type": "photo/png",
+            "sizes": "128x128"  
+          },
+          {
+            "src": "/photos/icon.png",
+            "type": "photo/png",
+            "sizes": "128x128"  
+          },
+          {
+            "src": "/photos/icon.png",
+            "type": "photo/png",
+            "sizes": "128x128"  
+          },
+          {
+            "src": "/photos/icon.png",
+            "type": "photo/png",
+            "sizes": "128x128"  
+          }
+    ]
+}
